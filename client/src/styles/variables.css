@@ -1,0 +1,14 @@
+:root {
+  font-family: "Inter", Arial, sans-serif;
+  color: #211f1c;
+  background: #fffefa;
+
+  --color-ink: #211f1c;
+  --color-ivory: #f5f0e7;
+  --color-gold: #a58a62;
+  --color-muted: #777168;
+  --color-border: #e9e3d9;
+
+  --font-heading: Georgia, "Times New Roman", serif;
+  --page-width: 1440px;
+}
